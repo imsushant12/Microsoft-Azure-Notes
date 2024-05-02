@@ -32,4 +32,6 @@ This repository covers notes on various core Azure services, including but not l
 Whether you're looking to enhance your career prospects or validate your Azure skills, Microsoft offers role-based certification paths tailored to different job roles, such as developer, administrator, architect, and data engineer. Check out the [Microsoft Certification](https://learn.microsoft.com/certifications/azure/) website for more information on certification exams and learning paths.
 
 ## Contributing
-Contributions to this repository are welcome! If you have additional notes, resources, or corrections, feel free to submit a pull request. Together, we can create a valuable learning resource for the Azure community.
+Contributions to this repository are welcome!
+
+If you have additional notes, resources, or corrections, feel free to submit a pull request. Together, we can create a valuable learning resource for the Azure community.
