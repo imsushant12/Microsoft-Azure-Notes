@@ -35,12 +35,17 @@ While all major cloud providers offer similar core services, there are some key 
 ### Advantages, Disadvantages, and Use Cases of Azure
 #### Advantages of Azure
 * **Scalability**: Easily scale resources up or down to meet changing demands.
+* **Elasticity**: Ability to scale up or down dynamically.
+* **Agility**: Ability to react quickly or to allocate and de-allocate the resources quickly.
 * **Cost-effectiveness**: Pay only for what you use.
 * **Security**: Robust security features and compliance certifications.
 * **Reliability**: High availability and disaster recovery options.
 * **Integration**: Integrates well with other Microsoft products and services.
 * **AI**: Advanced AI capabilities.
 
+> Note: 
+> 1. Availability is the measure of system uptime for users or services.
+> 2. High Availability is the ability to keep the services running for extended period of time with very little downtime.
 
 #### Disadvantages of Azure
 * **Vendor Lock-in**:  Relying heavily on Azure might make it difficult to switch to other providers in the future.
@@ -56,7 +61,7 @@ While all major cloud providers offer similar core services, there are some key 
 * Hosting websites and web applications.
 
 ### Free vs. Paid Services in Azure
-**Free Services:**
+**Free Services:** 
 * Azure free account with limited usage for 12 months.
 * Limited access to most services with restricted quotas (CPU, storage, etc.)
 * Free tier includes tools for managing your resources and basic functionalities of core services.
